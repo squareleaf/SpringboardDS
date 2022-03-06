@@ -1,0 +1,336 @@
+,country_or_area,commodity_transaction,year,unit,quantity,category
+1025857,Canada,Electricity - total solar production,2014,"Kilowatt-hours, million",1756.0,solar_electricity
+1025858,Canada,Electricity - total solar production,2013,"Kilowatt-hours, million",1499.0,solar_electricity
+1025859,Canada,Electricity - total solar production,2012,"Kilowatt-hours, million",319.0,solar_electricity
+1025860,Canada,Electricity - total solar production,2011,"Kilowatt-hours, million",260.0,solar_electricity
+1025861,Canada,Electricity - total solar production,2010,"Kilowatt-hours, million",117.0,solar_electricity
+1025862,Canada,Electricity - total solar production,2009,"Kilowatt-hours, million",5.0,solar_electricity
+1025863,Canada,Electricity - total solar production,2008,"Kilowatt-hours, million",35.0,solar_electricity
+1025864,Canada,Electricity - total solar production,2007,"Kilowatt-hours, million",26.0,solar_electricity
+1025865,Canada,Electricity - total solar production,2006,"Kilowatt-hours, million",21.0,solar_electricity
+1025866,Canada,Electricity - total solar production,2005,"Kilowatt-hours, million",17.0,solar_electricity
+1025867,Canada,Electricity - total solar production,2004,"Kilowatt-hours, million",13.0,solar_electricity
+1025868,Canada,Electricity - total solar production,2003,"Kilowatt-hours, million",23.0,solar_electricity
+1025869,Canada,Electricity - total solar production,2002,"Kilowatt-hours, million",22.0,solar_electricity
+1025870,Canada,Electricity - total solar production,2001,"Kilowatt-hours, million",19.0,solar_electricity
+1025871,Canada,Electricity - total solar production,2000,"Kilowatt-hours, million",16.0,solar_electricity
+1025872,Canada,Electricity - total solar production,1999,"Kilowatt-hours, million",13.0,solar_electricity
+1025873,Canada,Electricity - total solar production,1998,"Kilowatt-hours, million",10.0,solar_electricity
+1025874,Canada,Electricity - total solar production,1997,"Kilowatt-hours, million",7.0,solar_electricity
+1025875,Canada,Electricity - total solar production,1996,"Kilowatt-hours, million",6.0,solar_electricity
+1025876,Canada,Electricity - total solar production,1995,"Kilowatt-hours, million",4.0,solar_electricity
+1025877,Canada,Electricity - total solar production,1994,"Kilowatt-hours, million",3.0,solar_electricity
+1025878,Canada,Electricity - total solar production,1993,"Kilowatt-hours, million",3.0,solar_electricity
+1025879,Canada,Electricity - total solar production,1992,"Kilowatt-hours, million",2.0,solar_electricity
+1025884,China,Electricity - total solar production,2014,"Kilowatt-hours, million",15189.0,solar_electricity
+1025885,China,Electricity - total solar production,2013,"Kilowatt-hours, million",5564.0,solar_electricity
+1025993,France,Electricity - total solar production,2014,"Kilowatt-hours, million",5909.0,solar_electricity
+1025994,France,Electricity - total solar production,2013,"Kilowatt-hours, million",4735.0,solar_electricity
+1025995,France,Electricity - total solar production,2012,"Kilowatt-hours, million",4016.0,solar_electricity
+1025996,France,Electricity - total solar production,2011,"Kilowatt-hours, million",2078.0,solar_electricity
+1025997,France,Electricity - total solar production,2010,"Kilowatt-hours, million",620.0,solar_electricity
+1025998,France,Electricity - total solar production,2009,"Kilowatt-hours, million",174.0,solar_electricity
+1025999,France,Electricity - total solar production,2008,"Kilowatt-hours, million",42.0,solar_electricity
+1026000,France,Electricity - total solar production,2007,"Kilowatt-hours, million",27.0,solar_electricity
+1026001,France,Electricity - total solar production,2006,"Kilowatt-hours, million",16.0,solar_electricity
+1026002,France,Electricity - total solar production,2005,"Kilowatt-hours, million",13.0,solar_electricity
+1026003,France,Electricity - total solar production,2004,"Kilowatt-hours, million",9.0,solar_electricity
+1026004,France,Electricity - total solar production,2003,"Kilowatt-hours, million",8.0,solar_electricity
+1026005,France,Electricity - total solar production,2002,"Kilowatt-hours, million",7.0,solar_electricity
+1026006,France,Electricity - total solar production,2001,"Kilowatt-hours, million",6.0,solar_electricity
+1026007,France,Electricity - total solar production,2000,"Kilowatt-hours, million",5.0,solar_electricity
+1026008,France,Electricity - total solar production,1999,"Kilowatt-hours, million",2.0,solar_electricity
+1026009,France,Electricity - total solar production,1998,"Kilowatt-hours, million",2.0,solar_electricity
+1026010,France,Electricity - total solar production,1997,"Kilowatt-hours, million",2.0,solar_electricity
+1026011,France,Electricity - total solar production,1996,"Kilowatt-hours, million",1.0,solar_electricity
+1026012,France,Electricity - total solar production,1995,"Kilowatt-hours, million",1.0,solar_electricity
+1026013,France,Electricity - total solar production,1994,"Kilowatt-hours, million",1.0,solar_electricity
+1026029,Germany,Electricity - total solar production,2014,"Kilowatt-hours, million",36056.0,solar_electricity
+1026030,Germany,Electricity - total solar production,2013,"Kilowatt-hours, million",31010.0,solar_electricity
+1026031,Germany,Electricity - total solar production,2012,"Kilowatt-hours, million",26380.0,solar_electricity
+1026032,Germany,Electricity - total solar production,2011,"Kilowatt-hours, million",19599.0,solar_electricity
+1026033,Germany,Electricity - total solar production,2010,"Kilowatt-hours, million",11729.0,solar_electricity
+1026034,Germany,Electricity - total solar production,2009,"Kilowatt-hours, million",6584.0,solar_electricity
+1026035,Germany,Electricity - total solar production,2008,"Kilowatt-hours, million",4420.0,solar_electricity
+1026036,Germany,Electricity - total solar production,2007,"Kilowatt-hours, million",3075.0,solar_electricity
+1026037,Germany,Electricity - total solar production,2006,"Kilowatt-hours, million",2220.0,solar_electricity
+1026038,Germany,Electricity - total solar production,2005,"Kilowatt-hours, million",1282.0,solar_electricity
+1026039,Germany,Electricity - total solar production,2004,"Kilowatt-hours, million",557.0,solar_electricity
+1026040,Germany,Electricity - total solar production,2003,"Kilowatt-hours, million",313.0,solar_electricity
+1026041,Germany,Electricity - total solar production,2002,"Kilowatt-hours, million",188.0,solar_electricity
+1026042,Germany,Electricity - total solar production,2001,"Kilowatt-hours, million",116.0,solar_electricity
+1026043,Germany,Electricity - total solar production,2000,"Kilowatt-hours, million",60.0,solar_electricity
+1026044,Germany,Electricity - total solar production,1999,"Kilowatt-hours, million",30.0,solar_electricity
+1026045,Germany,Electricity - total solar production,1998,"Kilowatt-hours, million",35.0,solar_electricity
+1026046,Germany,Electricity - total solar production,1997,"Kilowatt-hours, million",18.0,solar_electricity
+1026047,Germany,Electricity - total solar production,1996,"Kilowatt-hours, million",12.0,solar_electricity
+1026048,Germany,Electricity - total solar production,1995,"Kilowatt-hours, million",7.0,solar_electricity
+1026049,Germany,Electricity - total solar production,1994,"Kilowatt-hours, million",7.0,solar_electricity
+1026050,Germany,Electricity - total solar production,1993,"Kilowatt-hours, million",3.0,solar_electricity
+1026051,Germany,Electricity - total solar production,1992,"Kilowatt-hours, million",4.0,solar_electricity
+1026052,Germany,Electricity - total solar production,1991,"Kilowatt-hours, million",1.0,solar_electricity
+1026108,Italy,Electricity - total solar production,2014,"Kilowatt-hours, million",22306.0,solar_electricity
+1026109,Italy,Electricity - total solar production,2013,"Kilowatt-hours, million",21589.0,solar_electricity
+1026110,Italy,Electricity - total solar production,2012,"Kilowatt-hours, million",18862.0,solar_electricity
+1026111,Italy,Electricity - total solar production,2011,"Kilowatt-hours, million",10796.0,solar_electricity
+1026112,Italy,Electricity - total solar production,2010,"Kilowatt-hours, million",1906.0,solar_electricity
+1026113,Italy,Electricity - total solar production,2009,"Kilowatt-hours, million",676.0,solar_electricity
+1026114,Italy,Electricity - total solar production,2008,"Kilowatt-hours, million",193.0,solar_electricity
+1026115,Italy,Electricity - total solar production,2007,"Kilowatt-hours, million",38.0,solar_electricity
+1026116,Italy,Electricity - total solar production,2006,"Kilowatt-hours, million",35.0,solar_electricity
+1026117,Italy,Electricity - total solar production,2005,"Kilowatt-hours, million",31.0,solar_electricity
+1026118,Italy,Electricity - total solar production,2004,"Kilowatt-hours, million",29.0,solar_electricity
+1026119,Italy,Electricity - total solar production,2003,"Kilowatt-hours, million",24.0,solar_electricity
+1026120,Italy,Electricity - total solar production,2002,"Kilowatt-hours, million",21.0,solar_electricity
+1026121,Italy,Electricity - total solar production,2001,"Kilowatt-hours, million",19.0,solar_electricity
+1026122,Italy,Electricity - total solar production,2000,"Kilowatt-hours, million",18.0,solar_electricity
+1026123,Italy,Electricity - total solar production,1999,"Kilowatt-hours, million",17.0,solar_electricity
+1026124,Italy,Electricity - total solar production,1998,"Kilowatt-hours, million",16.0,solar_electricity
+1026125,Italy,Electricity - total solar production,1997,"Kilowatt-hours, million",15.0,solar_electricity
+1026126,Italy,Electricity - total solar production,1996,"Kilowatt-hours, million",14.0,solar_electricity
+1026127,Italy,Electricity - total solar production,1995,"Kilowatt-hours, million",13.0,solar_electricity
+1026128,Italy,Electricity - total solar production,1994,"Kilowatt-hours, million",11.0,solar_electricity
+1026129,Italy,Electricity - total solar production,1993,"Kilowatt-hours, million",11.0,solar_electricity
+1026130,Italy,Electricity - total solar production,1992,"Kilowatt-hours, million",9.0,solar_electricity
+1026131,Italy,Electricity - total solar production,1991,"Kilowatt-hours, million",5.0,solar_electricity
+1026132,Italy,Electricity - total solar production,1990,"Kilowatt-hours, million",4.0,solar_electricity
+1026133,Japan,Electricity - total solar production,2014,"Kilowatt-hours, million",24506.0,solar_electricity
+1026134,Japan,Electricity - total solar production,2013,"Kilowatt-hours, million",14279.0,solar_electricity
+1026135,Japan,Electricity - total solar production,2012,"Kilowatt-hours, million",6963.0,solar_electricity
+1026136,Japan,Electricity - total solar production,2011,"Kilowatt-hours, million",5160.0,solar_electricity
+1026137,Japan,Electricity - total solar production,2010,"Kilowatt-hours, million",3800.0,solar_electricity
+1026138,Japan,Electricity - total solar production,2009,"Kilowatt-hours, million",2758.0,solar_electricity
+1026139,Japan,Electricity - total solar production,2008,"Kilowatt-hours, million",2251.0,solar_electricity
+1026140,Japan,Electricity - total solar production,2007,"Kilowatt-hours, million",2015.0,solar_electricity
+1026141,Japan,Electricity - total solar production,2006,"Kilowatt-hours, million",1794.0,solar_electricity
+1026142,Japan,Electricity - total solar production,2005,"Kilowatt-hours, million",1493.0,solar_electricity
+1026143,Japan,Electricity - total solar production,2004,"Kilowatt-hours, million",1189.0,solar_electricity
+1026144,Japan,Electricity - total solar production,2003,"Kilowatt-hours, million",903.0,solar_electricity
+1026145,Japan,Electricity - total solar production,2002,"Kilowatt-hours, million",669.0,solar_electricity
+1026146,Japan,Electricity - total solar production,2001,"Kilowatt-hours, million",475.0,solar_electricity
+1026147,Japan,Electricity - total solar production,2000,"Kilowatt-hours, million",347.0,solar_electricity
+1026148,Japan,Electricity - total solar production,1999,"Kilowatt-hours, million",219.0,solar_electricity
+1026149,Japan,Electricity - total solar production,1998,"Kilowatt-hours, million",140.0,solar_electricity
+1026150,Japan,Electricity - total solar production,1997,"Kilowatt-hours, million",96.0,solar_electricity
+1026151,Japan,Electricity - total solar production,1996,"Kilowatt-hours, million",63.0,solar_electricity
+1026152,Japan,Electricity - total solar production,1995,"Kilowatt-hours, million",46.0,solar_electricity
+1026153,Japan,Electricity - total solar production,1994,"Kilowatt-hours, million",33.0,solar_electricity
+1026154,Japan,Electricity - total solar production,1993,"Kilowatt-hours, million",25.0,solar_electricity
+1026155,Japan,Electricity - total solar production,1992,"Kilowatt-hours, million",20.0,solar_electricity
+1026156,Japan,Electricity - total solar production,1991,"Kilowatt-hours, million",1.0,solar_electricity
+1026157,Japan,Electricity - total solar production,1990,"Kilowatt-hours, million",1.0,solar_electricity
+1026644,United Kingdom,Electricity - total solar production,2014,"Kilowatt-hours, million",4050.0,solar_electricity
+1026645,United Kingdom,Electricity - total solar production,2013,"Kilowatt-hours, million",1989.0,solar_electricity
+1026646,United Kingdom,Electricity - total solar production,2012,"Kilowatt-hours, million",1352.0,solar_electricity
+1026647,United Kingdom,Electricity - total solar production,2011,"Kilowatt-hours, million",244.0,solar_electricity
+1026648,United Kingdom,Electricity - total solar production,2010,"Kilowatt-hours, million",41.0,solar_electricity
+1026649,United Kingdom,Electricity - total solar production,2009,"Kilowatt-hours, million",20.0,solar_electricity
+1026650,United Kingdom,Electricity - total solar production,2008,"Kilowatt-hours, million",17.0,solar_electricity
+1026651,United Kingdom,Electricity - total solar production,2007,"Kilowatt-hours, million",14.0,solar_electricity
+1026652,United Kingdom,Electricity - total solar production,2006,"Kilowatt-hours, million",11.0,solar_electricity
+1026653,United Kingdom,Electricity - total solar production,2005,"Kilowatt-hours, million",8.0,solar_electricity
+1026654,United Kingdom,Electricity - total solar production,2004,"Kilowatt-hours, million",4.0,solar_electricity
+1026655,United Kingdom,Electricity - total solar production,2003,"Kilowatt-hours, million",3.0,solar_electricity
+1026656,United Kingdom,Electricity - total solar production,2002,"Kilowatt-hours, million",3.0,solar_electricity
+1026657,United Kingdom,Electricity - total solar production,2001,"Kilowatt-hours, million",2.0,solar_electricity
+1026658,United Kingdom,Electricity - total solar production,2000,"Kilowatt-hours, million",1.0,solar_electricity
+1026659,United Kingdom,Electricity - total solar production,1999,"Kilowatt-hours, million",1.0,solar_electricity
+1026667,United States,Electricity - total solar production,2014,"Kilowatt-hours, million",24603.0,solar_electricity
+1026668,United States,Electricity - total solar production,2013,"Kilowatt-hours, million",15872.0,solar_electricity
+1026669,United States,Electricity - total solar production,2012,"Kilowatt-hours, million",10145.0,solar_electricity
+1026670,United States,Electricity - total solar production,2011,"Kilowatt-hours, million",6153.0,solar_electricity
+1026671,United States,Electricity - total solar production,2010,"Kilowatt-hours, million",3934.0,solar_electricity
+1026672,United States,Electricity - total solar production,2009,"Kilowatt-hours, million",2514.0,solar_electricity
+1026673,United States,Electricity - total solar production,2008,"Kilowatt-hours, million",2091.0,solar_electricity
+1026674,United States,Electricity - total solar production,2007,"Kilowatt-hours, million",1673.0,solar_electricity
+1026675,United States,Electricity - total solar production,2006,"Kilowatt-hours, million",1287.0,solar_electricity
+1026676,United States,Electricity - total solar production,2005,"Kilowatt-hours, million",1120.0,solar_electricity
+1026677,United States,Electricity - total solar production,2004,"Kilowatt-hours, million",965.0,solar_electricity
+1026678,United States,Electricity - total solar production,2003,"Kilowatt-hours, million",848.0,solar_electricity
+1026679,United States,Electricity - total solar production,2002,"Kilowatt-hours, million",830.0,solar_electricity
+1026680,United States,Electricity - total solar production,2001,"Kilowatt-hours, million",785.0,solar_electricity
+1026681,United States,Electricity - total solar production,2000,"Kilowatt-hours, million",709.0,solar_electricity
+1026682,United States,Electricity - total solar production,1999,"Kilowatt-hours, million",689.0,solar_electricity
+1026683,United States,Electricity - total solar production,1998,"Kilowatt-hours, million",890.0,solar_electricity
+1026684,United States,Electricity - total solar production,1997,"Kilowatt-hours, million",897.0,solar_electricity
+1026685,United States,Electricity - total solar production,1996,"Kilowatt-hours, million",906.0,solar_electricity
+1026686,United States,Electricity - total solar production,1995,"Kilowatt-hours, million",828.0,solar_electricity
+1026687,United States,Electricity - total solar production,1994,"Kilowatt-hours, million",828.0,solar_electricity
+1026688,United States,Electricity - total solar production,1993,"Kilowatt-hours, million",901.0,solar_electricity
+1026689,United States,Electricity - total solar production,1992,"Kilowatt-hours, million",749.0,solar_electricity
+1026690,United States,Electricity - total solar production,1991,"Kilowatt-hours, million",782.0,solar_electricity
+1026691,United States,Electricity - total solar production,1990,"Kilowatt-hours, million",666.0,solar_electricity
+1188280,Canada,Electricity - total wind production,2014,"Kilowatt-hours, million",22538.0,wind_electricity
+1188281,Canada,Electricity - total wind production,2013,"Kilowatt-hours, million",17963.0,wind_electricity
+1188282,Canada,Electricity - total wind production,2012,"Kilowatt-hours, million",11310.0,wind_electricity
+1188283,Canada,Electricity - total wind production,2011,"Kilowatt-hours, million",10187.0,wind_electricity
+1188284,Canada,Electricity - total wind production,2010,"Kilowatt-hours, million",8724.0,wind_electricity
+1188285,Canada,Electricity - total wind production,2009,"Kilowatt-hours, million",6641.0,wind_electricity
+1188286,Canada,Electricity - total wind production,2008,"Kilowatt-hours, million",3788.0,wind_electricity
+1188287,Canada,Electricity - total wind production,2007,"Kilowatt-hours, million",3007.0,wind_electricity
+1188288,Canada,Electricity - total wind production,2006,"Kilowatt-hours, million",2473.0,wind_electricity
+1188289,Canada,Electricity - total wind production,2005,"Kilowatt-hours, million",1567.0,wind_electricity
+1188290,Canada,Electricity - total wind production,2004,"Kilowatt-hours, million",954.0,wind_electricity
+1188291,Canada,Electricity - total wind production,2003,"Kilowatt-hours, million",826.0,wind_electricity
+1188292,Canada,Electricity - total wind production,2002,"Kilowatt-hours, million",408.0,wind_electricity
+1188293,Canada,Electricity - total wind production,2001,"Kilowatt-hours, million",337.0,wind_electricity
+1188294,Canada,Electricity - total wind production,2000,"Kilowatt-hours, million",264.0,wind_electricity
+1188295,Canada,Electricity - total wind production,1999,"Kilowatt-hours, million",164.0,wind_electricity
+1188296,Canada,Electricity - total wind production,1998,"Kilowatt-hours, million",62.0,wind_electricity
+1188297,Canada,Electricity - total wind production,1997,"Kilowatt-hours, million",62.0,wind_electricity
+1188298,Canada,Electricity - total wind production,1996,"Kilowatt-hours, million",62.0,wind_electricity
+1188299,Canada,Electricity - total wind production,1995,"Kilowatt-hours, million",59.0,wind_electricity
+1188300,Canada,Electricity - total wind production,1994,"Kilowatt-hours, million",59.0,wind_electricity
+1188301,Canada,Electricity - total wind production,1993,"Kilowatt-hours, million",59.0,wind_electricity
+1188302,Canada,Electricity - total wind production,1992,"Kilowatt-hours, million",59.0,wind_electricity
+1188317,China,Electricity - total wind production,2014,"Kilowatt-hours, million",156078.0,wind_electricity
+1188318,China,Electricity - total wind production,2013,"Kilowatt-hours, million",141197.0,wind_electricity
+1188319,China,Electricity - total wind production,2012,"Kilowatt-hours, million",95978.0,wind_electricity
+1188320,China,Electricity - total wind production,2011,"Kilowatt-hours, million",70331.0,wind_electricity
+1188321,China,Electricity - total wind production,2010,"Kilowatt-hours, million",44622.0,wind_electricity
+1188537,France,Electricity - total wind production,2014,"Kilowatt-hours, million",17249.0,wind_electricity
+1188538,France,Electricity - total wind production,2013,"Kilowatt-hours, million",16034.0,wind_electricity
+1188539,France,Electricity - total wind production,2012,"Kilowatt-hours, million",14914.0,wind_electricity
+1188540,France,Electricity - total wind production,2011,"Kilowatt-hours, million",12051.0,wind_electricity
+1188541,France,Electricity - total wind production,2010,"Kilowatt-hours, million",9945.0,wind_electricity
+1188542,France,Electricity - total wind production,2009,"Kilowatt-hours, million",7912.0,wind_electricity
+1188543,France,Electricity - total wind production,2008,"Kilowatt-hours, million",5694.0,wind_electricity
+1188544,France,Electricity - total wind production,2007,"Kilowatt-hours, million",4070.0,wind_electricity
+1188545,France,Electricity - total wind production,2006,"Kilowatt-hours, million",2182.0,wind_electricity
+1188546,France,Electricity - total wind production,2005,"Kilowatt-hours, million",962.0,wind_electricity
+1188547,France,Electricity - total wind production,2004,"Kilowatt-hours, million",595.0,wind_electricity
+1188548,France,Electricity - total wind production,2003,"Kilowatt-hours, million",388.0,wind_electricity
+1188549,France,Electricity - total wind production,2002,"Kilowatt-hours, million",265.0,wind_electricity
+1188550,France,Electricity - total wind production,2001,"Kilowatt-hours, million",131.0,wind_electricity
+1188551,France,Electricity - total wind production,2000,"Kilowatt-hours, million",48.0,wind_electricity
+1188552,France,Electricity - total wind production,1999,"Kilowatt-hours, million",37.0,wind_electricity
+1188553,France,Electricity - total wind production,1998,"Kilowatt-hours, million",19.0,wind_electricity
+1188554,France,Electricity - total wind production,1997,"Kilowatt-hours, million",11.0,wind_electricity
+1188555,France,Electricity - total wind production,1996,"Kilowatt-hours, million",7.0,wind_electricity
+1188556,France,Electricity - total wind production,1995,"Kilowatt-hours, million",5.0,wind_electricity
+1188557,France,Electricity - total wind production,1994,"Kilowatt-hours, million",5.0,wind_electricity
+1188558,France,Electricity - total wind production,1993,"Kilowatt-hours, million",2.0,wind_electricity
+1188561,Germany,Electricity - total wind production,2014,"Kilowatt-hours, million",57357.0,wind_electricity
+1188562,Germany,Electricity - total wind production,2013,"Kilowatt-hours, million",51708.0,wind_electricity
+1188563,Germany,Electricity - total wind production,2012,"Kilowatt-hours, million",50670.0,wind_electricity
+1188564,Germany,Electricity - total wind production,2011,"Kilowatt-hours, million",48883.0,wind_electricity
+1188565,Germany,Electricity - total wind production,2010,"Kilowatt-hours, million",37793.0,wind_electricity
+1188566,Germany,Electricity - total wind production,2009,"Kilowatt-hours, million",38647.0,wind_electricity
+1188567,Germany,Electricity - total wind production,2008,"Kilowatt-hours, million",40574.0,wind_electricity
+1188568,Germany,Electricity - total wind production,2007,"Kilowatt-hours, million",39713.0,wind_electricity
+1188569,Germany,Electricity - total wind production,2006,"Kilowatt-hours, million",30710.0,wind_electricity
+1188570,Germany,Electricity - total wind production,2005,"Kilowatt-hours, million",27229.0,wind_electricity
+1188571,Germany,Electricity - total wind production,2004,"Kilowatt-hours, million",25509.0,wind_electricity
+1188572,Germany,Electricity - total wind production,2003,"Kilowatt-hours, million",18713.0,wind_electricity
+1188573,Germany,Electricity - total wind production,2002,"Kilowatt-hours, million",15856.0,wind_electricity
+1188574,Germany,Electricity - total wind production,2001,"Kilowatt-hours, million",10456.0,wind_electricity
+1188575,Germany,Electricity - total wind production,2000,"Kilowatt-hours, million",9352.0,wind_electricity
+1188576,Germany,Electricity - total wind production,1999,"Kilowatt-hours, million",5528.0,wind_electricity
+1188577,Germany,Electricity - total wind production,1998,"Kilowatt-hours, million",4593.0,wind_electricity
+1188578,Germany,Electricity - total wind production,1997,"Kilowatt-hours, million",3034.0,wind_electricity
+1188579,Germany,Electricity - total wind production,1996,"Kilowatt-hours, million",2078.0,wind_electricity
+1188580,Germany,Electricity - total wind production,1995,"Kilowatt-hours, million",1712.0,wind_electricity
+1188581,Germany,Electricity - total wind production,1994,"Kilowatt-hours, million",1428.0,wind_electricity
+1188582,Germany,Electricity - total wind production,1993,"Kilowatt-hours, million",674.0,wind_electricity
+1188583,Germany,Electricity - total wind production,1992,"Kilowatt-hours, million",291.0,wind_electricity
+1188584,Germany,Electricity - total wind production,1991,"Kilowatt-hours, million",215.0,wind_electricity
+1188725,Italy,Electricity - total wind production,2014,"Kilowatt-hours, million",15178.0,wind_electricity
+1188726,Italy,Electricity - total wind production,2013,"Kilowatt-hours, million",14897.0,wind_electricity
+1188727,Italy,Electricity - total wind production,2012,"Kilowatt-hours, million",13407.0,wind_electricity
+1188728,Italy,Electricity - total wind production,2011,"Kilowatt-hours, million",9856.0,wind_electricity
+1188729,Italy,Electricity - total wind production,2010,"Kilowatt-hours, million",9126.0,wind_electricity
+1188730,Italy,Electricity - total wind production,2009,"Kilowatt-hours, million",6543.0,wind_electricity
+1188731,Italy,Electricity - total wind production,2008,"Kilowatt-hours, million",4861.0,wind_electricity
+1188732,Italy,Electricity - total wind production,2007,"Kilowatt-hours, million",4034.0,wind_electricity
+1188733,Italy,Electricity - total wind production,2006,"Kilowatt-hours, million",2971.0,wind_electricity
+1188734,Italy,Electricity - total wind production,2005,"Kilowatt-hours, million",2344.0,wind_electricity
+1188735,Italy,Electricity - total wind production,2004,"Kilowatt-hours, million",1847.0,wind_electricity
+1188736,Italy,Electricity - total wind production,2003,"Kilowatt-hours, million",1458.0,wind_electricity
+1188737,Italy,Electricity - total wind production,2002,"Kilowatt-hours, million",1404.0,wind_electricity
+1188738,Italy,Electricity - total wind production,2001,"Kilowatt-hours, million",1179.0,wind_electricity
+1188739,Italy,Electricity - total wind production,2000,"Kilowatt-hours, million",563.0,wind_electricity
+1188740,Italy,Electricity - total wind production,1999,"Kilowatt-hours, million",403.0,wind_electricity
+1188741,Italy,Electricity - total wind production,1998,"Kilowatt-hours, million",231.0,wind_electricity
+1188742,Italy,Electricity - total wind production,1997,"Kilowatt-hours, million",118.0,wind_electricity
+1188743,Italy,Electricity - total wind production,1996,"Kilowatt-hours, million",33.0,wind_electricity
+1188744,Italy,Electricity - total wind production,1995,"Kilowatt-hours, million",9.0,wind_electricity
+1188745,Italy,Electricity - total wind production,1994,"Kilowatt-hours, million",7.0,wind_electricity
+1188746,Italy,Electricity - total wind production,1993,"Kilowatt-hours, million",4.0,wind_electricity
+1188747,Italy,Electricity - total wind production,1992,"Kilowatt-hours, million",2.0,wind_electricity
+1188748,Italy,Electricity - total wind production,1991,"Kilowatt-hours, million",3.0,wind_electricity
+1188749,Italy,Electricity - total wind production,1990,"Kilowatt-hours, million",2.0,wind_electricity
+1188761,Japan,Electricity - total wind production,2014,"Kilowatt-hours, million",5038.0,wind_electricity
+1188762,Japan,Electricity - total wind production,2013,"Kilowatt-hours, million",4286.0,wind_electricity
+1188763,Japan,Electricity - total wind production,2012,"Kilowatt-hours, million",4722.0,wind_electricity
+1188764,Japan,Electricity - total wind production,2011,"Kilowatt-hours, million",4559.0,wind_electricity
+1188765,Japan,Electricity - total wind production,2010,"Kilowatt-hours, million",3962.0,wind_electricity
+1188766,Japan,Electricity - total wind production,2009,"Kilowatt-hours, million",3613.0,wind_electricity
+1188767,Japan,Electricity - total wind production,2008,"Kilowatt-hours, million",2946.0,wind_electricity
+1188768,Japan,Electricity - total wind production,2007,"Kilowatt-hours, million",2624.0,wind_electricity
+1188769,Japan,Electricity - total wind production,2006,"Kilowatt-hours, million",2210.0,wind_electricity
+1188770,Japan,Electricity - total wind production,2005,"Kilowatt-hours, million",1754.0,wind_electricity
+1188771,Japan,Electricity - total wind production,2004,"Kilowatt-hours, million",1310.0,wind_electricity
+1188772,Japan,Electricity - total wind production,2003,"Kilowatt-hours, million",833.0,wind_electricity
+1188773,Japan,Electricity - total wind production,2002,"Kilowatt-hours, million",415.0,wind_electricity
+1188774,Japan,Electricity - total wind production,2001,"Kilowatt-hours, million",252.0,wind_electricity
+1188775,Japan,Electricity - total wind production,2000,"Kilowatt-hours, million",109.0,wind_electricity
+1188776,Japan,Electricity - total wind production,1999,"Kilowatt-hours, million",38.0,wind_electricity
+1188777,Japan,Electricity - total wind production,1998,"Kilowatt-hours, million",7.0,wind_electricity
+1188778,Japan,Electricity - total wind production,1997,"Kilowatt-hours, million",1.0,wind_electricity
+1188779,Japan,Electricity - total wind production,1996,"Kilowatt-hours, million",2.0,wind_electricity
+1188780,Japan,Electricity - total wind production,1995,"Kilowatt-hours, million",1.0,wind_electricity
+1188781,Japan,Electricity - total wind production,1994,"Kilowatt-hours, million",1.0,wind_electricity
+1188782,Japan,Electricity - total wind production,1993,"Kilowatt-hours, million",1.0,wind_electricity
+1188783,Japan,Electricity - total wind production,1992,"Kilowatt-hours, million",0.0,wind_electricity
+1188784,Japan,Electricity - total wind production,1991,"Kilowatt-hours, million",0.0,wind_electricity
+1188785,Japan,Electricity - total wind production,1990,"Kilowatt-hours, million",0.0,wind_electricity
+1189411,United Kingdom,Electricity - total wind production,2014,"Kilowatt-hours, million",32015.0,wind_electricity
+1189412,United Kingdom,Electricity - total wind production,2013,"Kilowatt-hours, million",28421.0,wind_electricity
+1189413,United Kingdom,Electricity - total wind production,2012,"Kilowatt-hours, million",19835.0,wind_electricity
+1189414,United Kingdom,Electricity - total wind production,2011,"Kilowatt-hours, million",15652.0,wind_electricity
+1189415,United Kingdom,Electricity - total wind production,2010,"Kilowatt-hours, million",10255.0,wind_electricity
+1189416,United Kingdom,Electricity - total wind production,2009,"Kilowatt-hours, million",9283.0,wind_electricity
+1189417,United Kingdom,Electricity - total wind production,2008,"Kilowatt-hours, million",7124.0,wind_electricity
+1189418,United Kingdom,Electricity - total wind production,2007,"Kilowatt-hours, million",5274.0,wind_electricity
+1189419,United Kingdom,Electricity - total wind production,2006,"Kilowatt-hours, million",4225.0,wind_electricity
+1189420,United Kingdom,Electricity - total wind production,2005,"Kilowatt-hours, million",2904.0,wind_electricity
+1189421,United Kingdom,Electricity - total wind production,2004,"Kilowatt-hours, million",1935.0,wind_electricity
+1189422,United Kingdom,Electricity - total wind production,2003,"Kilowatt-hours, million",1285.0,wind_electricity
+1189423,United Kingdom,Electricity - total wind production,2002,"Kilowatt-hours, million",1256.0,wind_electricity
+1189424,United Kingdom,Electricity - total wind production,2001,"Kilowatt-hours, million",965.0,wind_electricity
+1189425,United Kingdom,Electricity - total wind production,2000,"Kilowatt-hours, million",947.0,wind_electricity
+1189426,United Kingdom,Electricity - total wind production,1999,"Kilowatt-hours, million",850.0,wind_electricity
+1189427,United Kingdom,Electricity - total wind production,1998,"Kilowatt-hours, million",877.0,wind_electricity
+1189428,United Kingdom,Electricity - total wind production,1997,"Kilowatt-hours, million",667.0,wind_electricity
+1189429,United Kingdom,Electricity - total wind production,1996,"Kilowatt-hours, million",488.0,wind_electricity
+1189430,United Kingdom,Electricity - total wind production,1995,"Kilowatt-hours, million",391.0,wind_electricity
+1189431,United Kingdom,Electricity - total wind production,1994,"Kilowatt-hours, million",342.0,wind_electricity
+1189432,United Kingdom,Electricity - total wind production,1993,"Kilowatt-hours, million",218.0,wind_electricity
+1189433,United Kingdom,Electricity - total wind production,1992,"Kilowatt-hours, million",40.0,wind_electricity
+1189434,United Kingdom,Electricity - total wind production,1991,"Kilowatt-hours, million",11.0,wind_electricity
+1189435,United Kingdom,Electricity - total wind production,1990,"Kilowatt-hours, million",9.0,wind_electricity
+1189436,United States,Electricity - total wind production,2014,"Kilowatt-hours, million",183892.0,wind_electricity
+1189437,United States,Electricity - total wind production,2013,"Kilowatt-hours, million",169713.0,wind_electricity
+1189438,United States,Electricity - total wind production,2012,"Kilowatt-hours, million",141922.0,wind_electricity
+1189439,United States,Electricity - total wind production,2011,"Kilowatt-hours, million",120854.0,wind_electricity
+1189440,United States,Electricity - total wind production,2010,"Kilowatt-hours, million",95148.0,wind_electricity
+1189441,United States,Electricity - total wind production,2009,"Kilowatt-hours, million",74226.0,wind_electricity
+1189442,United States,Electricity - total wind production,2008,"Kilowatt-hours, million",55696.0,wind_electricity
+1189443,United States,Electricity - total wind production,2007,"Kilowatt-hours, million",34603.0,wind_electricity
+1189444,United States,Electricity - total wind production,2006,"Kilowatt-hours, million",26676.0,wind_electricity
+1189445,United States,Electricity - total wind production,2005,"Kilowatt-hours, million",17881.0,wind_electricity
+1189446,United States,Electricity - total wind production,2004,"Kilowatt-hours, million",14291.0,wind_electricity
+1189447,United States,Electricity - total wind production,2003,"Kilowatt-hours, million",11300.0,wind_electricity
+1189448,United States,Electricity - total wind production,2002,"Kilowatt-hours, million",10459.0,wind_electricity
+1189449,United States,Electricity - total wind production,2001,"Kilowatt-hours, million",6806.0,wind_electricity
+1189450,United States,Electricity - total wind production,2000,"Kilowatt-hours, million",5650.0,wind_electricity
+1189451,United States,Electricity - total wind production,1999,"Kilowatt-hours, million",4802.0,wind_electricity
+1189452,United States,Electricity - total wind production,1998,"Kilowatt-hours, million",3018.0,wind_electricity
+1189453,United States,Electricity - total wind production,1997,"Kilowatt-hours, million",3254.0,wind_electricity
+1189454,United States,Electricity - total wind production,1996,"Kilowatt-hours, million",3410.0,wind_electricity
+1189455,United States,Electricity - total wind production,1995,"Kilowatt-hours, million",3196.0,wind_electricity
+1189456,United States,Electricity - total wind production,1994,"Kilowatt-hours, million",3483.0,wind_electricity
+1189457,United States,Electricity - total wind production,1993,"Kilowatt-hours, million",3053.0,wind_electricity
+1189458,United States,Electricity - total wind production,1992,"Kilowatt-hours, million",2917.0,wind_electricity
+1189459,United States,Electricity - total wind production,1991,"Kilowatt-hours, million",3051.0,wind_electricity
+1189460,United States,Electricity - total wind production,1990,"Kilowatt-hours, million",3066.0,wind_electricity
